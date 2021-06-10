@@ -1,4 +1,4 @@
-## How to view a Website (Create-React-App) hosted on port 3000 in your phone's browser😲😨🥶.
+## How to view a Website (Create-React-App) hosted on port 3000 in your phone's browser😲.
 
 ---
 
